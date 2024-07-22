@@ -1,6 +1,6 @@
 # Skin Cancer Detection Using MNIST Dataset
 
-This repository contains a project aimed at detecting skin cancer using the MNIST dataset of skin cancer images. The model is built using a Convolutional Neural Network (CNN) and utilizes transfer learning with EfficientNetB0.
+This repository contains a project aimed at detecting skin cancer using the MNIST dataset of skin cancer images. The model is built using transfer learning with VGG16.
 
 ## Table of Contents
 
